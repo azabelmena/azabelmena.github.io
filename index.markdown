@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+Hello my name is Alec S. Zabel-Mena and I am an graduate student of mathematics
+of the University of Puerto Rico at Rio Piedras.

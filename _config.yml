@@ -18,22 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Alec Zabel-Mena
+title:
 email: alec.zabel@upr.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a website for serving as my online CV as well as showcasing my work,
+  current, previous, and future.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://azabelmena.github.io"
 domain: "azabelmena.github.io"
-twitter_username: jekyllrb
+#twitter_username: jekyllrb
 github_username: azabelmena
 
 # Build settings
-theme: minima
-#remote_theme: pages-themes/minimal@v0.2.0
+theme: hacker
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
