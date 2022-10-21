@@ -7,7 +7,7 @@ title: Home
 permalink: /
 ---
 
-# Alec Zabel-Mena, B.S:
+# Alec Zabel-Mena, B.S.
 ## University of Puerto Rico at Río Piedras,
 ### Department of Mathematics
 
