@@ -41,4 +41,4 @@ tried to consolidate descriptions to [one area specifically](https://mathworld.w
 however, I have had to branch out to other websites for some explanations. If
 you find a website that gives a much better explanation of one of the topics,
 feel free to send me the link through the
-[contacts](https://azabelmena.github.io/contact/).
+contacts.
