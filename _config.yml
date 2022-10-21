@@ -31,7 +31,7 @@ domain: "azabelmena.github.io"
 github_username: azabelmena
 
 # Build settings
-theme: hacker
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
