@@ -122,4 +122,7 @@ permalink: /cv/
           streamline workflow and automate repetetive tasks.
         - Privacy and Security Oriented.
         - ```C/C++```
-        - ```SAGE``` [mathematics software](https://www.sagemath.org/)
+        - ```SAGE``` [mathematics software](https://www.sagemath.org/){:target="_blank"}!
+
+
+### Download my CV [Here](https://github.com/azabelmena/curriculum_vitae/raw/main/alec_zabel_mena.pdf){:target="_blank"}!
