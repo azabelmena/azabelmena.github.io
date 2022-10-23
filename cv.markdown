@@ -125,4 +125,6 @@ permalink: /cv/
         - ```SAGE``` [mathematics software](https://www.sagemath.org/){:target="_blank"}!
 
 
-### Download my CV [Here](https://github.com/azabelmena/curriculum_vitae/raw/main/alec_zabel_mena.pdf){:target="_blank"}!
+### Download my CV (English):
+- [English](https://github.com/azabelmena/curriculum_vitae/raw/english/alec_zabel_mena.pdf){:target="_blank"}
+- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/spanish/alec_zabel_mena.pdf){:target="_blank"}
