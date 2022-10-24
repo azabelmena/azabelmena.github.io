@@ -3,7 +3,7 @@ source "https://rubygems.org"
 #gem "jekyll", "~> 4.2.2"
 gem "github-pages", "~> 227", group: :jekyll_plugins
 #gem "minima"
-gem "jekyll-theme-yat"
+gem "jekyll-theme-yat", "~> 1.9.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
