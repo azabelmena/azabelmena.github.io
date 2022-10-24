@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Research Interests
 permalink: /research/
 ---
@@ -26,7 +26,7 @@ permalink: /research/
 - [Algorithm Design using Matroids](https://en.wikipedia.org/wiki/Algorithm#Design){:target="_blank"}
 - [Various Unsolved Problems](http://www.openproblemgarden.org/category/matroid_theory){:target="_blank"}
 
-# [Cryptography](https://en.wikipedia.org/wiki/Cryptography#Modern_cryptography){:target="_blank"}
+<!--# [Cryptography](https://en.wikipedia.org/wiki/Cryptography#Modern_cryptography){:target="_blank"}-->
 
 # [Coding Theory](https://en.wikipedia.org/wiki/Coding_theory){:target="_blank"}
 - Algebraic Geometric Codes

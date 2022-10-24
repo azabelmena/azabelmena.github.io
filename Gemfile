@@ -2,7 +2,8 @@ source "https://rubygems.org"
 
 #gem "jekyll", "~> 4.2.2"
 gem "github-pages", "~> 227", group: :jekyll_plugins
-gem "minima", "~> 2.5"
+#gem "minima"
+gem "jekyll-theme-yat"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
