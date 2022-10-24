@@ -14,10 +14,6 @@
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that.
 #
-# For technical reasons, this file is *NOT* reloaded automatically when you
-# use 'bundle exec jekyll serve'. If you change this file, please restart
-# the server process.
-#
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -28,7 +24,7 @@ title: Alec Zabel-Mena, B.S.
 email: alec.zabel@upr.edu
 #author: GitHub User
 
-#theme: minima
+#theme: jekyll-theme-yat
 remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # Copyright setting
@@ -43,13 +39,9 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-#copyright: "2022-{currentYe22} {author}"
+#copyright: "Copyright © 2022-2022 Alec Zabel-Mena"
 
-description: >- # this means to ignore newlines until "baseurl:"
-  "Do not go gentle into that good night,
-    Old age should burn and rave at close of day;
-  Rage, rage against the dying of the light."
-  - Dylan Thomas
+#description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://azabelmena.github.io/"
@@ -64,7 +56,7 @@ yat:
 debug: true
 
 # If you don't want transparent header, you can set false
-header_transparent: true
+header_transparent: false
 
 # If you want to change the content width, you can set to another value
 # content_width: "920px"
@@ -85,13 +77,13 @@ translate_langs:
     img: https://cdn.countryflags.com/thumbs/puerto-rico/flag-400.png
     text: Spanish
 #
-  #- lang: pt
-    #img: https://cdn.countryflags.com/thumbs/brazil/flag-400.png
-    #text: Portuguese
+  - lang: pt
+    img: https://cdn.countryflags.com/thumbs/brazil/flag-400.png
+    text: Portuguese
 #
-  #- lang: fr
-    #img: https://cdn.countryflags.com/thumbs/france/flag-400.png
-    #text: French
+  - lang: fr
+    img: https://cdn.countryflags.com/thumbs/france/flag-400.png
+    text: French
 #
   #- lang: zh-CN
     #img: https://cdn.countryflags.com/thumbs/china/flag-400.png
@@ -111,20 +103,21 @@ translate_langs:
 
 # You can choose a theme color
 # Default theme colors as below:
-# coolblack: #090a0b
-# spacegrey: #353535
-# snowwhite: #ffffff
+#coolblack: #090a0b
+#spacegrey: #353535
+#snowwhite: #ffffff
 #
-#theme_color: snowwhite
+#theme_color: spacegrey
 #
 # Custom color as below:
 #theme_color: "#882250"
+theme_color: "#e70033"
 
 # You can choose a brand color
 # Default brand colors as below:
-#orangered: #ff5100
-# greatgold: #f2cb05
-# greenblue: #389092
+orangered: "#ff5100"
+#greatgold: #f2cb05
+#greenblue: #389092
 #
 brand_color: orangered
 #
@@ -142,15 +135,15 @@ brand_color: orangered
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-night_mode: "off"
+night_mode: "auto"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
-# code_badge:
-#   enabled: "true"
-#   color: "#fff"
-#   background_color: "#ff4e00"
-#   text_transform: "uppercase"  # ("uppercase", "lowercase", "capitalize")
+#code_badge:
+#  enabled: "true"
+#  color: "#fff"
+#  background_color: "#ff4e00"
+#  text_transform: "uppercase"  # ("uppercase", "lowercase", "capitalize")
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -165,23 +158,23 @@ defaults:
   home:
     heading: "Alec Zabel-Mena"
     subheading: "Mathematics for Fun and Profit"
-    #banner: "Your image url"
+    banner: "images/291019782_7649882528386777_8459715276089801175_n.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
-# banner:
-#   video: null             # Video banner source
-#   loop: true              # Video loop
-#   volume: 0               # Video volume (100% is 1.0)
-#   start_at: 0             # Video start time
-#   image: null             # Image banner source
-#   opacity: 1.0            # Banner opacity (100% is 1.0)
-#   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
-#   height: "640px"         # Banner default height
-#   min_height: null        # Banner minimum height
-#   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-#   subheading_style: null  # Custom subheading style (e.g. color: gold)
+#banner:
+#  video: null             # Video banner source
+#  loop: true              # Video loop
+#  volume: 0               # Video volume (100% is 1.0)
+#  start_at: 0             # Video start time
+#  image: null             # Image banner source
+#  opacity: 1.0            # Banner opacity (100% is 1.0)
+#  background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
+#  height: "640px"         # Banner default height
+#  min_height: null        # Banner minimum height
+#  heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
+#  subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 #Excerpt size setting
 #excerpt_size: 350
