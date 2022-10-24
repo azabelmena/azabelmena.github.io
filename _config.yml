@@ -115,11 +115,11 @@ theme_color: "#e70033"
 
 # You can choose a brand color
 # Default brand colors as below:
-orangered: "#ff5100"
+#orangered: "#ff5100"
 #greatgold: #f2cb05
 #greenblue: #389092
 #
-brand_color: orangered
+#brand_color: orangered
 #
 # Custom color as below:
 # brand_color: "#1a8e42"
