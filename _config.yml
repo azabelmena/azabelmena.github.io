@@ -28,7 +28,8 @@ title: Alec Zabel-Mena, B.S.
 email: alec.zabel@upr.edu
 #author: GitHub User
 
-theme: minima
+#theme: minima
+remote_theme: "jeffreytse/jekyll-theme-yat"
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
