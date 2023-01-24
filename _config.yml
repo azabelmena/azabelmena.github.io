@@ -158,6 +158,8 @@ header_pages:
   - research_interests.markdown
   - cv.markdown
   - about.markdown
+  - notes.markdown
+  - projects.markdow
 
 # Page default value
 defaults:
