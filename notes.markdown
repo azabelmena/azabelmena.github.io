@@ -13,8 +13,8 @@ permalink: /notes/
 
 ## Spring Semester 2022-2023
 - [3-Manifolds](https://github.com/azabelmena/class_notes/raw/main/2_sem_2022-2023/3_manifolds/3_manifolds.pdf)
-- [Modern Algebra II](https://github.com/azabelmena/404) (Coming Soon)
-- [Complex Analysis I](https://github.com/azabelmena/404) (Coming Soon)
+- [Modern Algebra II](https://github.com/azabelmena/class_notes/raw/main/2_sem_2022-2023/algebra_moderna_2/algebra_moderna_2.pdf)
+- [Complex Analysis I](https://github.com/azabelmena/class_notes/raw/main/2_sem_2022-2023/analysis_complejo_1/analysis_complejo_1.pdf)
 
 # Independent Studies
 ## Algebra
