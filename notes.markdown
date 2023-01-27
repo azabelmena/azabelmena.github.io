@@ -12,7 +12,7 @@ permalink: /notes/
 
 
 ## Spring Semester 2022-2023
-- [3-Manifolds](https://github.com/azabelmena/class_notes/raw/main/2_sem_2022-2023/3_manifolds/3_manifolds.pdf)
+- [3-Manifolds](https://github.com/azabelmena/class_notes/raw/main/2_sem_2022-2023/3-variedades/3-variedades.pdf)
 - [Modern Algebra II](https://github.com/azabelmena/class_notes/raw/main/2_sem_2022-2023/algebra_moderna_2/algebra_moderna_2.pdf)
 - [Complex Analysis I](https://github.com/azabelmena/class_notes/raw/main/2_sem_2022-2023/analysis_complejo_1/analysis_complejo_1.pdf)
 
@@ -28,6 +28,7 @@ permalink: /notes/
 ## Topology
 - [General Topology](https://github.com/azabelmena/math_notes/raw/main/topology/topology.pdf)
 - [Algebraic Topology](https://github.com/azabelmena/math_notes/raw/main/algebraic_topology/algebraic_topology.pdf)
+- [3-Manifolds](https://github.com/azabelmena/math_notes/raw/main/3-manifolds/3-manifolds.pdf)
 
 ## Analyisis
 - [Real Analysis](https://github.com/azabelmena/math_notes/raw/main/analysis/analysis.pdf)
