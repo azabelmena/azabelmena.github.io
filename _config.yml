@@ -160,7 +160,7 @@ defaults:
   home:
     heading: "Alec Zabel-Mena"
     subheading: "Mathematics for Fun and Profit"
-    banner: "images/291019782_7649882528386777_8459715276089801175_n.jpg"
+    banner: "./images/328094760_712322237220696_3987738320480535270_n.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
