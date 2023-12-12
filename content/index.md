@@ -1,8 +1,8 @@
----
-layout: home
-title: ''
-permalink: /
----
++++
+title = ''
+date = 2023-12-12T11:10:50-04:00
++++
+
 
 # Alec Zabel-Mena, B.S.
 ## University of Puerto Rico at Río Piedras,
