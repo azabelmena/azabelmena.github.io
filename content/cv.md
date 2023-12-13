@@ -45,13 +45,13 @@ date = 2023-12-12T21:18:56-04:00
 # Grants, Scholarships, and Awards
 - NASA PR Space Grant Fellowships and Scholarship Program (No. 80NSSC20M0052)
     - University of Puerto Rico
-    - August 2022 -- Present
+    - August 2022 -- May 2023
 
 - Puerto Rico Louis Stokes Alliance for Minority Participation
     - University of Puerto Rico
     - August 2021 -- May 2021
 
-# Teaching Experience
+# Teaching
 - Proyecto Tutorías DECEP
     - 2020 -- 2021
     - University of Puerto Rico
