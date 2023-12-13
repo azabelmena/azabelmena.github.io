@@ -10,9 +10,6 @@ paginate  = 10
 rssLimit  = 10
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
-# googleAnalytics = ""
-# disqusShortname = ""
-
 archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
@@ -34,7 +31,7 @@ disable404     = false
 disableHugoGeneratorInject = false
 
 [permalinks]
-  posts = "/posts/:year/:month/:title/"
+  posts = "/posts/:month/:year/:title/"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -46,12 +43,12 @@ disableHugoGeneratorInject = false
 
 [params]
   [params.author]
-    name = "Jane Doe"
+    name = "Alec S. Zabel-Mena"
 
-  dateform        = "Jan 2, 2006"
-  dateformShort   = "Jan 2"
-  dateformNum     = "2006-01-02"
-  dateformNumTime = "2006-01-02 15:04"
+  dateform        = "2 Jan, 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "02-01-2006"
+  dateformNumTime = "02-01-2006 15:04"
 
   # Metadata mostly used in document's head
   #
@@ -63,56 +60,21 @@ disableHugoGeneratorInject = false
   #
   homeSubtitle = ""
 
-  # Set a background for the homepage
-  # backgroundImage = "assets/images/background.jpg"
-
-  # Prefix of link to the git commit detail page. GitInfo must be enabled.
-  #
   # gitUrl = ""
 
-  # Set disableReadOtherPosts to true in order to hide the links to other posts.
-  #
   disableReadOtherPosts = false
 
-  # Enable theme toggle
-  #
-  # This options enables the theme toggle for the theme.
-  # Per default, this option is off.
-  # The theme is respecting the prefers-color-scheme of the operating system.
-  # With this option on, the page user is able to set the scheme he wants.
-  enableThemeToggle = false
+  enableThemeToggle = true
 
-  # Sharing buttons
-  #
-  # There are a lot of buttons preconfigured. If you want to change them,
-  # generate the buttons here: https://sharingbuttons.io
-  # and add them into your own `layouts/partials/sharing-buttons.html`
-  #
   enableSharingButtons = true
 
-  # Global language menu
-  #
-  # Enables the global language menu.
-  #
   enableGlobalLanguageMenu = true
 
-  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
-  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
-  #
   customCSS = []
   customJS  = []
 
-  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
-  #
-  justifyContent = false  # Set "text-align: justify" to .post-content.
+  justifyContent = false
 
-  # Integrate Plausible.io
-  # plausibleDataDomain = 'test.com'
-  # plausibleScriptSource = 'https://plausible.io/js/script.js'
-
-  # Custom footer
-  # If you want, you can easily override the default footer with your own content.
-  #
   [params.footer]
     trademark = 2023
     rss = true
