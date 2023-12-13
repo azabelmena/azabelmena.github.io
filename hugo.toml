@@ -142,15 +142,10 @@ disableHugoGeneratorInject = false
     # Append the current url pathname to logoText
      logoCursorPathname = true
 
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  # Addon: Startpage portrait
-  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-  # Uncomment this if you want a portrait on your start page
-  #
   [params.portrait]
-    path = "/images/planar_graph_torus.svg"
+    path = "/images/planar_bipartite.svg"
     alt      = "Portrait"
-    maxWidth = "1000px"
+    maxWidth = "500px"
 
   # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
   # Addon: Commento
@@ -212,7 +207,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:alec.zabel@upr.edu"
 
   [[params.social]]
     name = "github"
@@ -239,3 +234,11 @@ disableHugoGeneratorInject = false
     identifier = "CV"
     name       = "Currivulum Vitae"
     url        = "cv/"
+  [[menu.main]]
+    identifier = "research_interests"
+    name       = "Research Interests"
+    url        = "research_interests/"
+  [[menu.main]]
+    identifier = "notes"
+    name       = "Notes"
+    url        = "notes/"

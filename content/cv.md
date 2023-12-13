@@ -1,9 +1,8 @@
----
-layout: default
-title: Curriculum Vitae
-permalink: /cv/
-menu: "main"
----
++++
+title = 'Curriculum Vitae'
+date = 2023-12-12T21:18:56-04:00
++++
+
 
 # Education
 - B.S. Pure Mathematics, Minor in Cyber Security
@@ -122,11 +121,11 @@ menu: "main"
         - Knowlegde of UNIX, UNIX-like systems, and the commandline to
           streamline workflow and automate repetetive tasks.
         - Privacy and Security Oriented.
-        - ```C/C++```
-        - ```SAGE``` [mathematics software](https://www.sagemath.org/){:target="_blank"}!
+        - C
+        - SAGE
 
 
 ### Download my CV (English):
-- [English](https://github.com/azabelmena/curriculum_vitae/raw/english/alec_zabel_mena.pdf){:target="_blank"}
+- [English](https://github.com/azabelmena/curriculum_vitae/raw/english/alec_zabel_mena.pdf)
 - Spanish version coming soon.
 <!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/spanish/alec_zabel_mena.pdf){:target="_blank"}-->
