@@ -9,8 +9,9 @@ date = 2023-12-12T21:18:56-04:00
 - University of Puerto Rico, Río Piedras
 - August 2016 -- May 2022
 
-# Research Experience
-- APN Functions, and Classifying 2-Error-Correcting Codes
+# Research
+- An Efficient Implementation and Analysis of Zeta Functions of APN Curves and
+    Their Protograph LDPC Codes for Deep Space Applications
     - University of Puerto Rico
     - August 2021 -- Present
     - Researching APN functions and the classification of certain 2-error
@@ -127,5 +128,6 @@ date = 2023-12-12T21:18:56-04:00
 
 ### Download my CV (English):
 - [English](https://github.com/azabelmena/curriculum_vitae/raw/english/alec_zabel_mena.pdf)
+    - The English version is currently out of date.
 - Spanish version coming soon.
 <!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/spanish/alec_zabel_mena.pdf){:target="_blank"}-->
