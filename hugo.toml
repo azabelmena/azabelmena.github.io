@@ -132,7 +132,7 @@ disableHugoGeneratorInject = false
     logoText     = "$ cd /home/"
     logoHomeLink = "/"
      logoCursorDisabled = false
-     logoCursorColor    = "#67a2c9"
+     logoCursorColor    = "#cc241d"
      logoCursorAnimate  = "2s"
      logoCursorPathname = true
 
