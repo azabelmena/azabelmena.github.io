@@ -6,8 +6,12 @@ date = 2023-12-12T21:18:56-04:00
 
 # Education
 - B.S. Pure Mathematics, Minor in Cyber Security
-- University of Puerto Rico, Río Piedras
-- August 2016 -- May 2022
+    - University of Puerto Rico, Río Piedras
+    - August 2016 -- June 2022
+- M.S. Pure Mathematics
+    - University of Puerto Rico, Río Piedras
+    - In progress
+    - August 2022 -- Present
 
 # Research
 - An Efficient Implementation and Analysis of Zeta Functions of APN Curves and
@@ -46,10 +50,28 @@ date = 2023-12-12T21:18:56-04:00
 - NASA PR Space Grant Fellowships and Scholarship Program (No. 80NSSC20M0052)
     - University of Puerto Rico
     - August 2022 -- May 2023
-
 - Puerto Rico Louis Stokes Alliance for Minority Participation
     - University of Puerto Rico
     - August 2021 -- May 2021
+- NASA PR Fall Research Assistantship (No. 80NSSC20M0052)
+    - University of Puerto Rico
+    - August 2023 -- December 2023
+
+# Publications
+- Works in Preperation
+    - Janwa H., Zabel-Mena, A., An Efficient Implementation and Analysis of Zeta
+    Functions of APN Curves and Their Protograph LDPC Codes for Deep Space
+    Applications
+
+# Presentations and Talks
+- Zabel-Mena, Alec S., (2023, November 30). An Efficient Implementation and
+Analysis Of Zeta Functions Of APN Curves and Their Protograph LDPC Codes [poster
+session]. 2023 Forward Research Innovation Summit, San Juan, PR.
+
+- Zabel-Mena, Alec S., (2022, April 09). An Efficient Implementation of Computing
+The Rational Points and Zeta-functions of Curves Associated with APN Monomials
+and Applications to Cyclic codes [minisymposium talk]. 55th ACS Junior Technical
+Meeting, Humacao, PR.
 
 # Teaching
 - Proyecto Tutorías DECEP
@@ -75,56 +97,32 @@ date = 2023-12-12T21:18:56-04:00
           subjects of Algebra, Pre-Calculus, and Geometry for two times a week, at
           two hours for each session.
 
-# Publications
-- Works in Preperation
-    - Janwa H., Zabel-Mena, A., APN Functions and Classifying 2-Error-Correcting
-      Codes
-
 # Honors
 - Deans List
     - 2016 -- 2021
 
-## Memberships and Affiliations
-- Asociación de Estudiantes de Ciencieas de Cómputos (AECC)
+# Memberships and Affiliations
+- Asociación de Estudiantes de Ciencias de Cómputos (AECC)
     - 2022 -- Present
-
-- Asociación de Estudiantes de Matemáticas (AeMAT)
-    - 2019 -- 2020, 2022 -- Present
-
+- Asociación Estundiantil de Matemáticas (AeMAT)
+    - 2019 -- Present
+    - Treasurer
 - Senzala Capoeira
-    - 2016 -- 2020
+    - 2016 -- Present
 
-# Professional Development
-- Paper Presentations
-    - Junior Technical Meeting (JTM)
-        - June 2022
-        - Gave a Talk outlining my research in Classifying certain
-          2-error-correcting Codes and showed a program for finding projective
-          points on a curve.
-
-- Conferences Attended as Spectator
-    - Interuniversity Seminar on Mathematical Sciences Research (SIDIM)
-        - February 2022
-
-    - Going Down the Cybersecurity Rabbit Hole
-        - February 2022
-        - Dr. José Ortiz Ubarri
-        - University of Puerto Rico
 # Skills
-    - Languages
-        - English: Native
-        - Spanish: Native
-        - Portuguese: Basic (A1)
-
-    - Software
-        - Excel
-        - LaTeX
-        - Knowlegde of UNIX, UNIX-like systems, and the commandline to
-          streamline workflow and automate repetetive tasks.
-        - Privacy and Security Oriented.
-        - C
-        - SAGE
-
+- Languages
+    - English
+    - Spanish
+    - Portuguese
+- Software
+    - LaTeX
+    - Knowledge of \*NIX systems and the commandline to streamline workflow and
+      automate repetetive tasks
+    - Knowledge of high performance computing and systems
+    - Privacy and Security Oriented
+    - `C` programming
+    - `nix`
 
 ### Download my CV (English):
 - [English](https://github.com/azabelmena/curriculum_vitae/raw/english/alec_zabel_mena.pdf)
