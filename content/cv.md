@@ -21,7 +21,6 @@ date = 2023-12-12T21:18:56-04:00
     - Researching APN functions and the classification of certain 2-error
       correcting cyclic codes for use in cryptography and coding theory.
     - Mentored by Professor Heeralal Janwa, Ph.D.
-
 - The General Linear Group: Finding 2 × 2 Representations of Finite Groups
     - University of Puerto Rico
     - April 2020
@@ -29,7 +28,6 @@ date = 2023-12-12T21:18:56-04:00
     -  Research the general linear group on 2×2 matrices and representations of
        well known groups using these matrices.
     - Worked under the supervision of Professor Raúl Figueroa, Ph.D.
-
 - Matroid Theory
     - University of Puerto Rico
     - November 2019
@@ -37,7 +35,6 @@ date = 2023-12-12T21:18:56-04:00
     - Gave a survey of the field of Matroid theory, and its applications in Graph
       theory, Topology, and Algorithm Design.
     - Worked under the supervision of Professor Iván Cardona, Ph.D.
-
 - Algebraic Codes over Elliptic and Hermitian Curves
     - University of Puerto Rico
     - May 2019
@@ -82,17 +79,14 @@ Meeting, Humacao, PR.
           and developed individualized learning plans.
         - Tasked with providing tutoring services to seven high school students
           for 10 hours a week in the subjects of Algebra and Pre-Calculus.
-
 - Self Employed
     - 2019-2021
     - Mathematics Tutor
         - Evaluated students learning styles and provided appropriate techniques
           for maximizing understanding and minimizing frustration.
-
         - Simplified math concepts while coaching students to think critically
           when problem solving; eventually introducing them to axiomatic systems
           within mathematics.
-
         - Provided tutoring one-on-one to five highschool students in the
           subjects of Algebra, Pre-Calculus, and Geometry for two times a week, at
           two hours for each session.
