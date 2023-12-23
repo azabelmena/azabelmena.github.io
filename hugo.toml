@@ -171,14 +171,14 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://pr.linkedin.com/in/alec-zabel-mena-9bab4b2a4?trk=people-guest_people_search-card"
 
 [languages]
   [languages.en]
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   [languages.en.params]
-    subtitle  = "English"
+    subtitle  = "Mathematics for Fun and Profit"
 
 
 [menu]
