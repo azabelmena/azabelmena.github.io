@@ -61,9 +61,16 @@ date = 2023-12-12T21:18:56-04:00
     Applications
 
 # Presentations and Talks
-- Zabel-Mena, Alec S., (2023, November 30). An Efficient Implementation and
-Analysis Of Zeta Functions Of APN Curves and Their Protograph LDPC Codes [poster
-session]. 2023 Forward Research Innovation Summit, San Juan, PR.
+
+- Zabel-Mena, Alec S., Janwa Heeralal, Agrisoni, Carlos, (2024, March). An
+Efficient Implementation and Analysis Of Zeta Functions Of APN Curves and Their
+Protograph LDPC Codes [contributed talk].39th Seminario Interuniversitario de
+Investicación en Ciencias Matemáticas (SIDIM), Humacao, PR.
+
+- Zabel-Mena, Alec S., Janwa Heeralal, Agrisoni, Carlos, (2023, November 30). An
+Efficient Implementation and Analysis Of Zeta Functions Of APN Curves and Their
+Protograph LDPC Codes [poster session]. 2023 Forward Research Innovation Summit,
+San Juan, PR.
 
 - Zabel-Mena, Alec S., (2022, April 09). An Efficient Implementation of Computing
 The Rational Points and Zeta-functions of Curves Associated with APN Monomials
