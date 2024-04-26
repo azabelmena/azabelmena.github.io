@@ -10,11 +10,6 @@ date = 2023-12-12T21:22:10-04:00
 
 # [Algebraic Geometry](https://mathworld.wolfram.com/AlgebraicGeometry.html)
 
-# [TropicalGeometry](https://en.wikipedia.org/wiki/Tropical_geometry)
-
-# [Topology](https://mathworld.wolfram.com/Topology.html)
-- [Algebraic Topology](https://mathworld.wolfram.com/AlgebraicTopology.html)
-
 # [Graph Theory](https://mathworld.wolfram.com/Graph.html) and [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
 - [Algebraic Graph Theory](https://en.wikipedia.org/wiki/Algebraic_graph_theory)
 - [Algebraic Combinatorics](https://en.wikipedia.org/wiki/Algebraic_combinatorics)
