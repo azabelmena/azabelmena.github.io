@@ -110,6 +110,8 @@ Meeting, Humacao, PR.
     - Treasurer
 - Senzala Capoeira
     - 2016 -- Present
+- CEO of HTMX
+    - 2023 -- Present
 
 # Skills
 - Languages
