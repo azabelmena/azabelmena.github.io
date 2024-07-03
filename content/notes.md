@@ -1,24 +1,38 @@
 +++
-title = 'Notes'
+title = ''
 date = 2023-12-12T21:22:14-04:00
 +++
 
-# Algebra
-- [Group
-  Theory](https://github.com/azabelmena/math_notes/raw/main/algebra/group_theory/group_theory.pdf)
-- [Ring Theory](https://github.com/azabelmena/math_notes/raw/main/algebra/ring_theory/ring_theory.pdf)
-- [Field Theory and Galois Theory](https://github.com/azabelmena/math_notes/raw/main/algebra/field_theory/field_theory.pdf)
-- [Linear Algebra](https://github.com/azabelmena/math_notes/raw/main/algebra/linear_algebra/liner_algebra.pdf)
-- [Algerbaic Geometry](https://github.com/azabelmena/404) (Coming Soon)
+# [Mathematics Notes](https://github.com/azabelmena/math_notes){:target="_blank"}
 
-# Topology
-- [General Topology](https://github.com/azabelmena/math_notes/raw/main/topology/topology.pdf)
-- [Algebraic Topology](https://github.com/azabelmena/math_notes/raw/main/algebraic_topology/algebraic_topology.pdf)
-- [3-Manifolds](https://github.com/azabelmena/math_notes/raw/main/3-manifolds/3-manifolds.pdf)
+Here is the repository for my notes in various topics in mathematics. This
+repository will be puiblicly available. As a disclaimer, the notes here are
+heavily based on books that were used in conjunction, and are meant to acoompany
+those books. These notes SHOULD NOT be considered as original work, as they
+contain the results and topics contained in the accompnying book and other
+resources. To access the notes, please click on the title.
 
-# Analyisis
-- [Real Analysis](https://github.com/azabelmena/math_notes/raw/main/analysis/analysis.pdf)
-- [Complex Analysis](https://github.com/azabelmena/math_notes/raw/main/complex_analysis/complex_analysis.pdf)
+These notes are meant to be used as supplimentary material when studying a topic,
+and should only be used as such. These notes are also continually updated and
+under constant revision. I would appreciate it that any typos and errata be
+reported so that I can revise the content.
 
-# Matroid Theory
-- [Matroid Theory](https://github.com/azabelmena/math_notes/raw/main/matroid_theory/matroid.pdf)
+These notes do not contain the pdf files, and must be compiled with LaTeX. You
+can use your favorite LaTeX editor to compile the pdfs, or you can use the
+terminal command `latexmk -pdf` in the relevant directory to compile the notes
+you wish to view.
+
+This repository contains notes for:
+
+## Algebra
+- Group Theory
+- Algebraic Geometry and Commutative Algebra
+- General Ring Theory
+- Linear Algebra
+- Fields and Galois Theory
+
+## Topology
+
+## Real and Complex Analysis
+
+## Other Mathematics notes
