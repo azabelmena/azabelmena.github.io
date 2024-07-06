@@ -17,10 +17,40 @@ and should only be used as such. These notes are also continually updated and
 under constant revision. I would appreciate it that any typos and errata be
 reported so that I can revise the content.
 
-These notes do not contain the pdf files, and must be compiled with LaTeX. You
-can use your favorite LaTeX editor to compile the pdfs, or you can use the
-terminal command `latexmk -pdf` in the relevant directory to compile the notes
-you wish to view.
+These notes do not contain the pdf files, and must be compiled with LaTeX.  The
+content directory structure is as follows:
+
+```c
+math_notes/
+├── topic/
+│   │
+├── subject/
+│   ├── Chapters/
+├── subject/
+│   ├── Chapters/
+│   │   └── Chapter#/
+│   │       ├── chapter#.tex
+│   │       └── section#.tex
+│   ├── Figures/
+│   │   └── Chapter#/
+│   │       └── <figure_name>.<svg/pdf>
+│   ├── Library/
+│   │   ├── Fonts/
+│   │   ├── definitions.tex
+│   │   └── styles.tex
+│   ├── <subject>.bbl
+│   ├── <subject>.tex
+│   ├── quiver.sty
+│   └── references.tex
+├── .gitignore
+├── LICENSE
+└── README.md
+```
+
+You can open your favorit LaTeX editor in the `subject/` directory to compile
+the pdfs, or you can run the `latexmk -pdf <subject.tex>` terminal command the
+same directory. The main files will always be names `<subject>.tex`.
+
 
 This repository contains notes for:
 
