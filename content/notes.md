@@ -47,7 +47,9 @@ math_notes/
 
 You can open your favorit LaTeX editor in the `subject/` directory to compile
 the pdfs, or you can run the `latexmk -pdf <subject.tex>` terminal command the
-same directory. The main files will always be names `<subject>.tex`.
+same directory. The main files will always be names `<subject>.tex`. To clean up
+any extraneous files, just run the cleaning command in your favorite LaTeX
+editor, or `latexmk -c` in the terminal.
 
 
 [This repository](https://github.com/azabelmena/math_notes) contains notes for:
