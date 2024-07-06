@@ -3,7 +3,7 @@ title = ''
 date = 2023-12-12T21:22:14-04:00
 +++
 
-# [Mathematics Notes](https://github.com/azabelmena/math_notes){:target="_blank"}
+# [Mathematics Notes](https://github.com/azabelmena/math_notes)
 
 Here is the repository for my notes in various topics in mathematics. This
 repository will be puiblicly available. As a disclaimer, the notes here are
@@ -24,8 +24,6 @@ content directory structure is as follows:
 math_notes/
 ├── topic/
 │   │
-├── subject/
-│   ├── Chapters/
 ├── subject/
 │   ├── Chapters/
 │   │   └── Chapter#/
@@ -52,7 +50,7 @@ the pdfs, or you can run the `latexmk -pdf <subject.tex>` terminal command the
 same directory. The main files will always be names `<subject>.tex`.
 
 
-This repository contains notes for:
+[This repository](https://github.com/azabelmena/math_notes) contains notes for:
 
 ## Algebra
 - Group Theory
