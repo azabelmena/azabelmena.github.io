@@ -31,7 +31,7 @@ math_notes/
 │   │       └── section#.tex
 │   ├── Figures/
 │   │   └── Chapter#/
-│   │       └── <figure_name>.<svg/pdf>
+│   │       └── <figure_name>.<svg/eps/pdf>
 │   ├── Library/
 │   │   ├── Fonts/
 │   │   ├── definitions.tex
