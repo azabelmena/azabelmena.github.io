@@ -22,24 +22,25 @@ content directory structure is as follows:
 
 ```c
 math_notes/
-├── topic/
-│   │
-├── subject/
-│   ├── Chapters/
-│   │   └── Chapter#/
-│   │       ├── chapter#.tex
-│   │       └── section#.tex
-│   ├── Figures/
-│   │   └── Chapter#/
-│   │       └── <figure_name>.<svg/eps/pdf>
-│   ├── Library/
-│   │   ├── Fonts/
-│   │   ├── definitions.tex
-│   │   └── styles.tex
-│   ├── <subject>.bbl
-│   ├── <subject>.tex
-│   ├── quiver.sty
-│   └── references.tex
+├── library
+│   ├── Fonts/
+│   ├── definitions
+│   └── styles.tex
+├── notes/
+│   └── topic/
+│       │
+│       ├── subject/
+│       │   ├── chapter/
+│       │   │   └── chapter#/
+│       │   │       ├── chapter#.tex
+│       │   │       └── section#.tex
+│       │   ├── figures/
+│       │   │   └── chapter#/
+│       │   │       └── <figure_name>.<svg/eps/pdf>
+│       │   ├── <subject>.bbl
+│       │   ├── <subject>.tex
+│       │   ├── quiver.sty
+│       └── references.tex
 ├── .gitignore
 ├── LICENSE
 └── README.md
