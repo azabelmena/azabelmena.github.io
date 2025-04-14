@@ -7,13 +7,7 @@ date = 2023-12-12T21:22:10-04:00
 - [Group Theory](https://mathworld.wolfram.com/Group.html)
 - [Finite Fields](https://mathworld.wolfram.com/FiniteField.html)
 - [Commutative Algebra](https://en.wikipedia.org/wiki/Commutative_algebra#:~:text=Commutative%20algebra%20is%20essentially%20the,important%20class%20of%20commutative%20rings.)
-
-# [Algebraic Geometry](https://mathworld.wolfram.com/AlgebraicGeometry.html)
-
-# [Graph Theory](https://mathworld.wolfram.com/Graph.html) and [Combinatorics](https://en.wikipedia.org/wiki/Combinatorics)
-- [Algebraic Graph Theory](https://en.wikipedia.org/wiki/Algebraic_graph_theory)
-- [Algebraic Combinatorics](https://en.wikipedia.org/wiki/Algebraic_combinatorics)
-- [Combinatorial Geometry](https://en.wikipedia.org/wiki/Discrete_geometry)
+- [Algebraic Geometry](https://mathworld.wolfram.com/AlgebraicGeometry.html)
 
 # [Matroid Theory](https://en.wikipedia.org/wiki/Matroid)
 - [Greedy Algorithms](https://en.wikipedia.org/wiki/Greedy_algorithm)
