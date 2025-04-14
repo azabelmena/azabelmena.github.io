@@ -47,8 +47,8 @@ disableHugoGeneratorInject = false
 
   dateform        = "2 Jan, 2006"
   dateformShort   = "2 Jan"
-  dateformNum     = "02-01-2006"
-  dateformNumTime = "02-01-2006 15:04"
+  dateformNum     = "02.01.2006"
+  dateformNumTime = "02.01.2006 15:04"
 
   # Metadata mostly used in document's head
   #
