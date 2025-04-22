@@ -1,7 +1,6 @@
 +++
 title = 'Commonplace 3'
 date = 2025-04-22T16:07:24-04:00
-draft = true
 +++
 
 **Lemma** \(\text{Gal}(K/\mathbb{Q}) \cong (\mathbb{\Z}/\mathbb{m\Z})^\times\).
