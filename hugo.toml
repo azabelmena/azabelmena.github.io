@@ -206,5 +206,5 @@ disableHugoGeneratorInject = false
     url        = "research_interests/"
   [[menu.main]]
     identifier = "notes"
-    name       = "notes"
+    name       = "Notes"
     url        = "notes/"
