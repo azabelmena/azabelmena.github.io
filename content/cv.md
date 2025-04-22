@@ -3,6 +3,9 @@ title = 'Curriculum Vitae'
 date = 2023-12-12T21:18:56-04:00
 +++
 
+## DISCLAIMER!!!
+This page is outdated. I have not had the time to update the CV.
+However, I _will_ update this page when I have the time.
 
 # Education
 - B.S. Pure Mathematics, Minor in Cyber Security
