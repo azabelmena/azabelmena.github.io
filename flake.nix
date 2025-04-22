@@ -2,7 +2,7 @@
   description = "Alec S. Zabel-Mena";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/release-23.11";
+    nixpkgs.url = "github:NixOS/nixpkgs/release-24.11";
   };
 
   outputs = {self, nixpkgs}:

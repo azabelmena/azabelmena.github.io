@@ -6,7 +6,7 @@ theme = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "gruvbox-dark"
 
-paginate  = 10
+pagination.pagerSize  = 10
 rssLimit  = 10
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
@@ -41,14 +41,24 @@ disableHugoGeneratorInject = false
   category = "categories"
   series   = "series"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]']]
+          inline = [['\(', '\)']]
+
 [params]
+  math = true
   [params.author]
     name = "Alec S. Zabel-Mena"
 
   dateform        = "2 Jan, 2006"
   dateformShort   = "2 Jan"
-  dateformNum     = "02-01-2006"
-  dateformNumTime = "02-01-2006 15:04"
+  dateformNum     = "02.01.2006"
+  dateformNumTime = "02.01.2006 15:04"
 
   # Metadata mostly used in document's head
   #

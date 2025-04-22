@@ -70,7 +70,7 @@ baseurl      = "localhost"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
-paginate     = 10
+pagination.pagerSiz     = 10
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -86,7 +86,7 @@ paginate     = 10
 
   # Enable sharing buttons, if you like
   enableSharingButtons = true
-  
+
   # Show a global language switcher in the navigation bar
   enableGlobalLanguageMenu = true
 
@@ -180,7 +180,7 @@ A large variety of social icons are available and can be configured like this:
   url = "<profile_URL>"
 ```
 
-Take a look into this [list](docs/svgs.md) of available icon options. 
+Take a look into this [list](docs/svgs.md) of available icon options.
 
 If you need another one, just open an issue or create a pull request with your wished icon. :)
 
