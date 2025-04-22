@@ -1,5 +1,5 @@
 +++
-title = 'Commonplace 1'
+title = 'Zibaldone 1'
 date = 2025-04-22T15:54:23-04:00
 +++
 
