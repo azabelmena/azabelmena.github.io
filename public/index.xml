@@ -1,19 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <title>Alec S. Zabel-Mena, B.S.</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Alec S. Zabel-Mena, B.S.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 13 Apr 2025 22:13:42 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Home</title>
-      <link>https://example.org/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/</guid>
-      <description>Alec Zabel-Mena, B.S. University of Puerto Rico at Río Piedras, Department of Mathematics I am a graduate student of Pure Mathematics enrolled Department of Mathematics at the University of Puerto Rico, Río Piedras (UPRRP). I am an aspiring mathematician who wishes to focus on research and education. My research interests include: algebra, finite fields, topology, combinatorics and matroid theory, cryptography and coding theory.</description>
+      <title>The Good, The Bad, and The Analytic</title>
+      <link>http://localhost:1313/blog/analysis/</link>
+      <pubDate>Sun, 13 Apr 2025 22:13:42 -0400</pubDate>
+      <guid>http://localhost:1313/blog/analysis/</guid>
+      <description>&lt;p&gt;My relationship with mathematical analysis is, frought&amp;hellip; to say the&#xA;least. Let&amp;rsquo;s get one thing clear, I am first, and foremost, an&#xA;algebraist. So when I have to deal with mathematical analysis,&#xA;particularly, real analysis, I tend to get pretty worked up. This is&#xA;an inline math equation: \(x^2+y^2=1\). Here is another (un-labeled)&#xA;math equation in block form:&#xA;&lt;/p&gt;&#xA;\[&#xA;\begin{equation*}&#xA;    x^2+y^2=1&#xA;\end{equation*}&#xA;\]&lt;p&gt;&#xA;Now, here is some text in a math environment:&#xA;&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/notes/</link>
+      <pubDate>Tue, 12 Dec 2023 21:22:14 -0400</pubDate>
+      <guid>http://localhost:1313/notes/</guid>
+      <description>&lt;h1 id=&#34;mathematics-noteshttpsgithubcomazabelmenamath_notes&#34;&gt;&lt;a href=&#34;https://github.com/azabelmena/math_notes&#34;&gt;Mathematics Notes&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Here is the repository for my notes in various topics in mathematics. This&#xA;repository will be puiblicly available. As a disclaimer, the notes here are&#xA;heavily based on books that were used in conjunction, and are meant to acoompany&#xA;those books. These notes SHOULD NOT be considered as original work, as they&#xA;contain the results and topics contained in the accompnying book and other&#xA;resources. To access the notes, please click on the title.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Research interests</title>
+      <link>http://localhost:1313/research_interests/</link>
+      <pubDate>Tue, 12 Dec 2023 21:22:10 -0400</pubDate>
+      <guid>http://localhost:1313/research_interests/</guid>
+      <description>&lt;h1 id=&#34;algebrahttpsmathworldwolframcomalgebrahtml&#34;&gt;&lt;a href=&#34;https://mathworld.wolfram.com/Algebra.html&#34;&gt;Algebra&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mathworld.wolfram.com/Group.html&#34;&gt;Group Theory&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mathworld.wolfram.com/FiniteField.html&#34;&gt;Finite Fields&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Commutative_algebra#:~:text=Commutative%20algebra%20is%20essentially%20the,important%20class%20of%20commutative%20rings.&#34;&gt;Commutative Algebra&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://mathworld.wolfram.com/AlgebraicGeometry.html&#34;&gt;Algebraic Geometry&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;matroid-theoryhttpsenwikipediaorgwikimatroid&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Matroid&#34;&gt;Matroid Theory&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Greedy_algorithm&#34;&gt;Greedy Algorithms&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.cambridge.org/core/books/abs/combinatorial-geometries/matroids-in-combinatorial-optimization/1E9473238A9F5CF83BC9B6CF4D98D946&#34;&gt;Optimization using Matroids&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Algorithm#Design&#34;&gt;Algorithm Design using Matroids&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;http://www.openproblemgarden.org/category/matroid_theory&#34;&gt;Various Unsolved Problems&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;cryptographyhttpsenwikipediaorgwikicryptographymodern_cryptography&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Cryptography#Modern_cryptography&#34;&gt;Cryptography&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;coding-theoryhttpsenwikipediaorgwikicoding_theory&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Coding_theory&#34;&gt;Coding Theory&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Algebraic Geometric Codes&lt;/li&gt;&#xA;&lt;li&gt;Quantum Error Correction&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 12 Dec 2023 21:19:00 -0400</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img alt=&#34;Image Alt&#34; src=&#34;http://localhost:1313/images/328094760_712322237220696_3987738320480535270_n.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;I am a graduate student enrolled in the Master’s program in the Department of&#xA;Mathematics at the University of Puerto Rico, Río Piedras (UPRRP). I am an&#xA;aspiring mathematician who wishes to focus on research and education. Research&#xA;interests include topics in the fields of algebra, cryptography, and coding&#xA;theory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Tue, 12 Dec 2023 21:18:56 -0400</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;B.S. Pure Mathematics, Minor in Cyber Security&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico, Río Piedras&lt;/li&gt;&#xA;&lt;li&gt;August 2016 &amp;ndash; June 2022&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;M.S. Pure Mathematics&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico, Río Piedras&lt;/li&gt;&#xA;&lt;li&gt;In progress&lt;/li&gt;&#xA;&lt;li&gt;August 2022 &amp;ndash; Present&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;research&#34;&gt;Research&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An Efficient Implementation and Analysis of Zeta Functions of APN Curves and&#xA;Their Protograph LDPC Codes for Deep Space Applications&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico&lt;/li&gt;&#xA;&lt;li&gt;August 2021 &amp;ndash; Present&lt;/li&gt;&#xA;&lt;li&gt;Researching APN functions and the classification of certain 2-error&#xA;correcting cyclic codes for use in cryptography and coding theory.&lt;/li&gt;&#xA;&lt;li&gt;Mentored by Professor Heeralal Janwa, Ph.D.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;The General Linear Group: Finding 2 × 2 Representations of Finite Groups&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico&lt;/li&gt;&#xA;&lt;li&gt;April 2020&lt;/li&gt;&#xA;&lt;li&gt;Final project for the second undergraduate seminar in mathematics (MATE3170).&lt;/li&gt;&#xA;&lt;li&gt;Research the general linear group on 2×2 matrices and representations of&#xA;well known groups using these matrices.&lt;/li&gt;&#xA;&lt;li&gt;Worked under the supervision of Professor Raúl Figueroa, Ph.D.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Matroid Theory&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico&lt;/li&gt;&#xA;&lt;li&gt;November 2019&lt;/li&gt;&#xA;&lt;li&gt;Final project for the first undergraduate seminar in mathematics (MATE3070).&lt;/li&gt;&#xA;&lt;li&gt;Gave a survey of the field of Matroid theory, and its applications in Graph&#xA;theory, Topology, and Algorithm Design.&lt;/li&gt;&#xA;&lt;li&gt;Worked under the supervision of Professor Iván Cardona, Ph.D.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Algebraic Codes over Elliptic and Hermitian Curves&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico&lt;/li&gt;&#xA;&lt;li&gt;May 2019&lt;/li&gt;&#xA;&lt;li&gt;Research paper, and final project of the Introduction to Coding Theory course.&lt;/li&gt;&#xA;&lt;li&gt;Studied and found algebraic geometric codes using elliptic and Hermitian&#xA;curves for use in coding theory and cryptography&lt;/li&gt;&#xA;&lt;li&gt;Worked under the supervision of Professor Heeralal Janwa, Ph.D.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;grants-scholarships-and-awards&#34;&gt;Grants, Scholarships, and Awards&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;NASA PR Space Grant Fellowships and Scholarship Program (No. 80NSSC20M0052)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico&lt;/li&gt;&#xA;&lt;li&gt;August 2022 &amp;ndash; May 2023&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Puerto Rico Louis Stokes Alliance for Minority Participation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico&lt;/li&gt;&#xA;&lt;li&gt;August 2021 &amp;ndash; May 2021&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;NASA PR Fall Research Assistantship (No. 80NSSC20M0052)&#xA;&lt;ul&gt;&#xA;&lt;li&gt;University of Puerto Rico&lt;/li&gt;&#xA;&lt;li&gt;August 2023 &amp;ndash; December 2023&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Works in Preperation&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Janwa H., Zabel-Mena, A., An Efficient Implementation and Analysis of Zeta&#xA;Functions of APN Curves and Their Protograph LDPC Codes for Deep Space&#xA;Applications&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;presentations-and-talks&#34;&gt;Presentations and Talks&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Zabel-Mena, Alec S., Janwa Heeralal, Agrisoni, Carlos, (2024, March). An&#xA;Efficient Implementation and Analysis Of Zeta Functions Of APN Curves and Their&#xA;Protograph LDPC Codes [contributed talk].39th Seminario Interuniversitario de&#xA;Investicación en Ciencias Matemáticas (SIDIM), Humacao, PR.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
