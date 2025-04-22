@@ -7,15 +7,8 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 13 Apr 2025 22:13:42 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 12 Dec 2023 21:22:14 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Good, The Bad, and The Analytic</title>
-      <link>http://localhost:1313/blog/analysis/</link>
-      <pubDate>Sun, 13 Apr 2025 22:13:42 -0400</pubDate>
-      <guid>http://localhost:1313/blog/analysis/</guid>
-      <description>&lt;p&gt;My relationship with mathematical analysis is, frought&amp;hellip; to say the&#xA;least. Let&amp;rsquo;s get one thing clear, I am first, and foremost, an&#xA;algebraist. So when I have to deal with mathematical analysis,&#xA;particularly, real analysis, I tend to get pretty worked up. This is&#xA;an inline math equation: \(x^2+y^2=1\). Here is another (un-labeled)&#xA;math equation in block form:&#xA;&lt;/p&gt;&#xA;\[&#xA;\begin{equation*}&#xA;    x^2+y^2=1&#xA;\end{equation*}&#xA;\]&lt;p&gt;&#xA;Now, here is some text in a math environment:&#xA;&lt;/p&gt;</description>
-    </item>
     <item>
       <title></title>
       <link>http://localhost:1313/notes/</link>
