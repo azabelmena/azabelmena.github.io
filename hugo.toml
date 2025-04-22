@@ -41,7 +41,17 @@ disableHugoGeneratorInject = false
   category = "categories"
   series   = "series"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]']]
+          inline = [['\(', '\)']]
+
 [params]
+  math = true
   [params.author]
     name = "Alec S. Zabel-Mena"
 

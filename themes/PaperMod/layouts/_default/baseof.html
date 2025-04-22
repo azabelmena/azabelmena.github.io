@@ -1,12 +1,11 @@
-{{- if lt hugo.Version "0.97.1" }}
-{{- errorf "=> hugo v0.97.1 or greater is required for hugo-PaperMod to build " }}
-{{- end -}}
-
 <!DOCTYPE html>
 <html lang="{{ site.Language }}" dir="{{ .Language.LanguageDirection | default "auto" }}">
 
 <head>
     {{- partial "head.html" . }}
+    {{ if .Param "math" }}
+      {{ partialCached "math.html" . }}
+    {{ end }}
 </head>
 
 <body class="
