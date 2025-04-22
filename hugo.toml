@@ -6,7 +6,7 @@ theme = "hello-friend-ng"
 PygmentsCodeFences = true
 PygmentsStyle = "gruvbox-dark"
 
-paginate  = 10
+pagination.pagerSize  = 10
 rssLimit  = 10
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
