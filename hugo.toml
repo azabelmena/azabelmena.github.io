@@ -209,6 +209,6 @@ disableHugoGeneratorInject = false
     name       = "Notes"
     url        = "notes/"
   [[menu.main]]
-    identifier = "commonplace"
-    name       = "Commonplace"
-    url        = "commonplace/"
+    identifier = "zibaldone"
+    name       = "Zibaldone"
+    url        = "zibaldone/"
