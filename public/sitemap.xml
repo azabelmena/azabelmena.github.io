@@ -3,12 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-04-22T15:54:23-04:00</lastmod>
+    <lastmod>2025-04-22T16:07:24-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/commonplace/commonplace_1/</loc>
-    <lastmod>2025-04-22T15:54:23-04:00</lastmod>
+    <loc>http://localhost:1313/commonplace/commonplace_3/</loc>
+    <lastmod>2025-04-22T16:07:24-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/commonplace/</loc>
+    <lastmod>2025-04-22T16:07:24-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/commonplace/commonplace_2/</loc>
+    <lastmod>2025-04-22T16:02:04-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/commonplace/commonplace_1/</loc>
     <lastmod>2025-04-22T15:54:23-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
