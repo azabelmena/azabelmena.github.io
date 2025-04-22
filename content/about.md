@@ -30,7 +30,8 @@ which where you can find math jokes, quotes, observations, and
 physical notebooks of course). This should not be confused with a
 [commonplace notebook](https://imperfectjournaling.com/commonplace-book/).
 which is more structured. Here the only structure you'll find are
-time-stamps. If you want to learn more, [Park Notes](https://www.youtube.com/@ParkerNotes)
-on youtube is a great resource. He also has a [substack](https://parknotes.substack.com/).
+time-stamps. If you want to learn more about zibaldones and commonplace books,
+[Park Notes](https://www.youtube.com/@ParkerNotes) on youtube is a great resource.
+He also has a [substack](https://parknotes.substack.com/).
 - I will possibly, add a blog to record thoughts which are too big for
   the Zibaldone to contain. I'm still not certain on this.
