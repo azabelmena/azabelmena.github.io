@@ -215,4 +215,4 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "zibaldone"
     name       = "Zibaldone"
-    url        = "zibaldone/"
+    url        = "https://azabelmena.github.io/zibaldone"
