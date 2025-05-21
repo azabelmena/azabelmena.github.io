@@ -134,4 +134,4 @@ Meeting, Humacao, PR.
 ### Download my CV (English):
 - [English](https://github.com/azabelmena/curriculum_vitae/raw/refs/heads/main/azabelmena.pdf)
 - Spanish version coming soon.
-<!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/spanish/alec_zabel_mena.pdf){:target="_blank"}-->
+<!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/refs/heads/spanish/azabelmena.pdf)-->
