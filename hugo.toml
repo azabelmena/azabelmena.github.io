@@ -179,10 +179,6 @@ disableHugoGeneratorInject = false
     name = "github"
     url  = "https://github.com/azabelmena"
 
-  [[params.social]]
-    name = "linkedin"
-    url  = "https://pr.linkedin.com/in/alec-zabel-mena-9bab4b2a4?trk=people-guest_people_search-card"
-
 [languages]
   [languages.en]
     weight    = 1
