@@ -35,3 +35,9 @@ time-stamps. If you want to learn more about zibaldones and commonplace books,
 He also has a [substack](https://parknotes.substack.com/).
 - I will possibly, add a blog to record thoughts which are too big for
   the Zibaldone to contain. I'm still not certain on this.
+
+## About the Slogan Below.
+
+"Mathematics for Fun and Profit". This is just a riff on Aleph One's
+article ["Smashing the Stack For Fun and Profit"](https://inst.eecs.berkeley.edu/~cs161/fa08/papers/stack_smashing.pdf).
+This paper is just an overview of stack smashing vulernabilities common in the `C` programming language, and it's very much worth reading.
