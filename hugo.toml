@@ -207,8 +207,8 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "zettelkasten"
     name       = "Zettelkasten"
-    url        = "http://zettelkasten.azabelmena.xyz"
+    url        = "https://zettelkasten.azabelmena.xyz"
   [[menu.main]]
     identifier = "zibaldone"
     name       = "Zibaldone"
-    url        = "http://zibaldone.azabelmena.xyz"
+    url        = "https://zibaldone.azabelmena.xyz"
