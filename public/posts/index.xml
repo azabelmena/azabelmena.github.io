@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Zibaldone</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Zibaldone</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>alec.zabel@upr.edu (Alec S. Zabel-Mena)</managingEditor>
+    <webMaster>alec.zabel@upr.edu (Alec S. Zabel-Mena)</webMaster>
+    <copyright>Alec S. Zabel-Mena</copyright>
+    <lastBuildDate>Tue, 20 May 2025 12:38:01 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zibaldone 5</title>
+      <link>http://localhost:1313/posts/zibaldone_5/</link>
+      <pubDate>Tue, 20 May 2025 12:38:01 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zibaldone_5/</guid>
+      <description>&lt;p&gt;Sometimes I spend way too much time doing extraneous, or superfluous&#xA;stuff, instead of the &lt;span class=&#34;sidenote&#34;&gt;&#xA;  &lt;input&#xA;    aria-label=&#34;Show sidenote&#34;&#xA;    type=&#34;checkbox&#34;&#xA;    id=&#34;sidenote-checkbox-01&#34;&#xA;    class=&#34;sidenote-checkbox hidden&#34;&#xA;  /&gt;&#xA;  &lt;label&#xA;    tabindex=&#34;0&#34;&#xA;    role=&#34;mark&#34;&#xA;    aria-details=&#34;sidenote-01&#34;&#xA;    for=&#34;sidenote-checkbox-01&#34;&#xA;    class=&#34;sidenote-mark&#34;&#xA;    &gt;stuff&lt;/label&#xA;  &gt;&#xA;  &lt;small id=&#34;sidenote-01&#34; class=&#34;sidenote-content&#34;&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt; (sidenote: &lt;/span&gt;&#xA;For example, my thesis.&#xA;&lt;span class=&#34;sr-only&#34;&gt;)&lt;/span&gt;&#xA;  &lt;/small&gt;&#xA;&lt;/span&gt;&#xA; &lt;em&gt;I need to get done&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zibaldone 4</title>
+      <link>http://localhost:1313/posts/zibaldone_4/</link>
+      <pubDate>Tue, 20 May 2025 12:14:36 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zibaldone_4/</guid>
+      <description>&lt;p&gt;To compartamentalise the zibaldone into it&amp;rsquo;s own site (the same theme&#xA;I use for my &lt;a href=&#34;https://azabelmena.github.io/zettelkasten/&#34;&gt;zettelkasten&lt;/a&gt;)&#xA;is perhaps one of the better choices for me to take.&#xA;(&#xA;Not only do I have more control over the zibaldones, they are in their&#xA;own seperate space, free to live (relatively) untethered from my main&#xA;&lt;a href=&#34;https://azabelmena.github.io/zettelkasten/&#34;&gt;website&lt;/a&gt;, shackled only&#xA;by a single &lt;span class=&#34;sidenote&#34;&gt;&#xA;  &lt;input&#xA;    aria-label=&#34;Show sidenote&#34;&#xA;    type=&#34;checkbox&#34;&#xA;    id=&#34;sidenote-checkbox-01&#34;&#xA;    class=&#34;sidenote-checkbox hidden&#34;&#xA;  /&gt;&#xA;  &lt;label&#xA;    tabindex=&#34;0&#34;&#xA;    role=&#34;mark&#34;&#xA;    aria-details=&#34;sidenote-01&#34;&#xA;    for=&#34;sidenote-checkbox-01&#34;&#xA;    class=&#34;sidenote-mark&#34;&#xA;    &gt;hyperlink&lt;/label&#xA;  &gt;&#xA;  &lt;small id=&#34;sidenote-01&#34; class=&#34;sidenote-content&#34;&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt; (sidenote: &lt;/span&gt;&#xA;the truth is this was always the case, but now&#xA;I just have a prettier theming and presentation of my thoughts.&#xA;&lt;span class=&#34;sr-only&#34;&gt;)&lt;/span&gt;&#xA;  &lt;/small&gt;&#xA;&lt;/span&gt;&#xA;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zettelkasten 5</title>
+      <link>http://localhost:1313/posts/zettelkasten_5/</link>
+      <pubDate>Tue, 29 Apr 2025 16:36:39 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zettelkasten_5/</guid>
+      <description>&lt;p&gt;The zettelkasten of mine, apart from being an exercise in intent and&#xA;purpose, has also served to open my eyes to a new form of self study.&#xA;&lt;em&gt;The act of defining things&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zettelkasten 4</title>
+      <link>http://localhost:1313/posts/zettelkasten_4/</link>
+      <pubDate>Tue, 29 Apr 2025 16:33:42 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zettelkasten_4/</guid>
+      <description>&lt;p&gt;The act of putting together a zettelkasten has been perhaps the most&#xA;profound occurence in these past weeks. The act of having to really&#xA;think about whay you are defining and the words you use has been a&#xA;good thorough exercise in intent and in purpose. &lt;em&gt;What is the purpose&lt;/em&gt;&#xA;of what I am defining. What steps do I need to take to get there.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zettelkasten 3</title>
+      <link>http://localhost:1313/posts/zettelkasten_3/</link>
+      <pubDate>Fri, 25 Apr 2025 11:08:42 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zettelkasten_3/</guid>
+      <description>&lt;p&gt;Turns out, I could&amp;rsquo;ve completely avoided the DNS shenanegans.&#xA;Actually, no need for subdomains&amp;hellip; I think. The lesson here is that&#xA;some answers are really just straight forward.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zettelkasten 2</title>
+      <link>http://localhost:1313/posts/zettelkasten_2/</link>
+      <pubDate>Thu, 24 Apr 2025 17:59:06 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zettelkasten_2/</guid>
+      <description>&lt;p&gt;Turns out, setting up a zettelkasten is much harder work. I&amp;rsquo;m not even&#xA;talking about writing one. I&amp;rsquo;m just talking about linking one website&#xA;to the other website and dealing with DNS shenanegans. You&amp;rsquo;ll notice&#xA;that the link to &amp;ldquo;zettelkasten&amp;rdquo; on my homepage still gives a 404 file not&#xA;found error. This &lt;em&gt;should&lt;/em&gt; be resolved soon.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zettelkasten 1</title>
+      <link>http://localhost:1313/posts/zettelkasten_1/</link>
+      <pubDate>Tue, 22 Apr 2025 18:02:38 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zettelkasten_1/</guid>
+      <description>&lt;p&gt;I am thinking of starking a &lt;a href=&#34;https://zettelkasten.de/introduction/&#34;&gt;zettelkasten&lt;/a&gt;.&#xA;The purpose of the zettelkasten would just to link mathematics&#xA;definitions from various topics for my personal use. Of course, anyone&#xA;else would be free to use it as well. I think, perhaps, I would link&#xA;it a seperate webpage with a different theme. I need to look up more&#xA;on how to set it up. A collegue of mine has it set up with a graph&#xA;which would be nice. More on this endeavor later.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zibaldone 3</title>
+      <link>http://localhost:1313/posts/zibaldone_3/</link>
+      <pubDate>Tue, 22 Apr 2025 16:07:24 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zibaldone_3/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Lemma&lt;/strong&gt; \(\text{Gal}(K/\mathbb{Q}) \cong (\mathbb{\Z}/\mathbb{m\Z})^\times\).&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Proof&lt;/em&gt;. Ask a toddler on the street.&lt;/p&gt;&#xA;&lt;p&gt;I got this one from an X &lt;a href=&#34;https://x.com/anthony_bonato/status/1910689898836746383?s=48&#34;&gt;post&lt;/a&gt;&#xA;by @Anthony_Bonato.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zibaldone 2</title>
+      <link>http://localhost:1313/posts/zibaldone_2/</link>
+      <pubDate>Tue, 22 Apr 2025 16:02:04 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zibaldone_2/</guid>
+      <description>&lt;p&gt;some mathematicians really be adding &amp;ldquo;po-&amp;rdquo; to everything &amp;ndash; My Friend&#xA;Sergio&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Zibaldone 1</title>
+      <link>http://localhost:1313/posts/zibaldone_1/</link>
+      <pubDate>Tue, 22 Apr 2025 15:54:23 -0400</pubDate><author>alec.zabel@upr.edu (Alec S. Zabel-Mena)</author>
+      <guid>http://localhost:1313/posts/zibaldone_1/</guid>
+      <description>&lt;p&gt;A mathematician is a machine for turning coffee into theorems. &amp;ndash; &lt;a href=&#34;https://blogs.ams.org/phdplus/2015/04/28/coffee-into-theorems/&#34;&gt;Alfréd Rényi&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;A comathematician is a machine for turning cotheorems into ffee.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

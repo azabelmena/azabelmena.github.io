@@ -1,0 +1,277 @@
+<!doctype html>
+<html
+  lang="en-us"
+  dir="ltr"
+>
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      displayMath: [['\\[', '\\]'], ['$$', '$$']],  
+      inlineMath: [['\\(', '\\)'], ['$', '$']]                  
+    },
+    loader:{
+      load: ['ui/safe']
+    },
+  };
+</script><meta charset="utf-8" />
+<meta name="language" content="en" />
+<meta name="viewport" content="width=device-width" />
+<title>
+    Teorema de Lagrange | My Math Notes $\mapsto$ Zettelkasten.
+</title>
+  <meta name="description" content=" Teorema De Lagrange #definition relación de equivalencia especial: Si $H &lt; G$, entonces defina $\sim$ en $G$ como: $a \sim b \iff a^{-1} b \in H$. Las clases de equivalencia de $\sim$ son de la forma" />
+<meta property="og:url" content="http://localhost:1313/mate-4081-20250922/">
+  <meta property="og:site_name" content="My Math Notes $\mapsto$ Zettelkasten.">
+  <meta property="og:title" content="Teorema de Lagrange">
+  <meta property="og:description" content="Teorema De Lagrange #definition relación de equivalencia especial: Si $H &lt; G$, entonces defina $\sim$ en $G$ como: $a \sim b \iff a^{-1} b \in H$. Las clases de equivalencia de $\sim$ son de la forma">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:published_time" content="2025-09-22T10:00:00-04:00">
+    <meta property="article:modified_time" content="2025-09-22T10:00:00-04:00">
+    <meta property="article:tag" content="MATE-4081">
+    <meta property="article:tag" content="Class">
+    <meta property="article:tag" content="Math">
+
+
+  <meta itemprop="name" content="Teorema de Lagrange">
+  <meta itemprop="description" content="Teorema De Lagrange #definition relación de equivalencia especial: Si $H &lt; G$, entonces defina $\sim$ en $G$ como: $a \sim b \iff a^{-1} b \in H$. Las clases de equivalencia de $\sim$ son de la forma">
+  <meta itemprop="datePublished" content="2025-09-22T10:00:00-04:00">
+  <meta itemprop="dateModified" content="2025-09-22T10:00:00-04:00">
+  <meta itemprop="wordCount" content="509">
+  <meta itemprop="keywords" content="MATE-4081,Class,Math">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Teorema de Lagrange">
+  <meta name="twitter:description" content="Teorema De Lagrange #definition relación de equivalencia especial: Si $H &lt; G$, entonces defina $\sim$ en $G$ como: $a \sim b \iff a^{-1} b \in H$. Las clases de equivalencia de $\sim$ son de la forma">
+
+<link rel="canonical" href="http://localhost:1313/mate-4081-20250922/" />
+
+    <link rel="stylesheet" href="/css/index.css" />
+
+
+      <script src="/js/main.js" defer></script>
+  
+
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css"
+  integrity="sha256-cXvJrnhTth8PdkVd3fDs1PUnp4P0LeKsJGhImcHEYlg="
+  crossorigin="anonymous"
+/>
+<script
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"
+  integrity="sha256-5r/l3uvUx8zScgVbq2O9OrLHO5B7bmoi01J0CoE4H9Q="
+  crossorigin="anonymous"
+></script>
+<script
+  src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
+  integrity="sha256-e1fUJ6xicGd9r42DgN7SzHMzb5FJoWe44f4NbvZmBK4="
+  crossorigin="anonymous"
+></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    renderMathInElement(document.body, {
+      delimiters: [
+        { left: '\\[', right: '\\]', display: true }, 
+        { left: '$$', right: '$$', display: true }, 
+        { left: '\\(', right: '\\)', display: false } 
+      ],
+      throwOnError: false
+    });
+  });
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "description": " Teorema De Lagrange #definition relación de equivalencia especial: Si $H \u003c G$, entonces defina $\\sim$ en $G$ como: $a \\sim b \\iff a^{-1} b \\in H$. Las clases de equivalencia de $\\sim$ son de la forma",
+  "headline": "Teorema De Lagrange"
+}
+</script>
+
+
+  </head>
+  <body>
+    <div class="container mx-auto flex max-w-prose flex-col space-y-10 p-4 md:p-6">
+      <header class="flex flex-row items-center justify-between">
+        <div>
+  <a id="skip-nav" class="sr-only" href="#maincontent">Skip to main content</a>
+  <a class="font-semibold" href="/">My Math Notes $\mapsto$ Zettelkasten.</a>
+</div>
+
+  <nav>
+    <ul class="flex flex-row items-center justify-end space-x-4">
+    <li>
+      <a href="/zettelkasten/">Zettelkasten</a
+      >
+    </li>
+    <li>
+      <a href="/graph/">Graph</a
+      >
+    </li>
+    </ul>
+  </nav>
+
+
+      </header>
+      <main class="prose prose-slate relative md:prose-lg prose-h1:text-[2em]" id="maincontent">
+        <article class="main">
+    <header>
+      <h1 class="!mb-1">Teorema De Lagrange</h1><div class="flex flex-row items-center space-x-4">
+          <time class="text-sm italic opacity-80" datetime="2025-09-22T10:00:00-04:00"
+            >September 22, 2025</time
+          >
+        </div>
+    </header>
+
+    <h2 id="teorema-de-lagrange" class="scroll-mt-8 group">
+  Teorema De Lagrange
+  
+    <a href="#teorema-de-lagrange"
+        class="no-underline hidden opacity-50 hover:opacity-100 !text-inherit group-hover:inline-block"
+        aria-hidden="true" title="Link to this heading" tabindex="-1">
+        <svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="16"
+  height="16"
+  fill="none"
+  stroke="currentColor"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+  stroke-width="2"
+  class="lucide lucide-link w-4 h-4 block"
+  viewBox="0 0 24 24"
+>
+  <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
+  <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
+</svg>
+
+    </a>
+  
+</h2>
+<ul>
+<li>#definition relación de equivalencia especial:
+<ul>
+<li>Si $H < G$, entonces defina $\sim$ en $G$ como: $a \sim b \iff a^{-1} b \in H$.</li>
+</ul>
+</li>
+</ul>
+<p>Las clases de equivalencia de $\sim$ son de la forma</p>
+$$
+\begin{align*}
+	[a] &= \{b \in G \mid a \sim b\} \\
+		&= \{b \in G \mid a^{-1} b \in H\} \\
+		&= \{b \in G \mid a^{-1} b = h, h \in G\} \\
+		&= \{b \in G \mid b = a h, h \in G\} \\
+		&= \{a h \mid h \in G\} \\
+\end{align*}
+$$<p>Entonces, defina $[a] = a H$.</p>
+<ul>
+<li>#definition <em>coset</em> (clase lateral):
+<ul>
+<li>Sea $H < G$. La clase lateral por la izquierda de $H$ generado por $a \in G$ es,</li>
+</ul>
+</li>
+</ul>
+$$
+	a H = \{a h | h \in H\}.
+$$<ul>
+<li>#example Encuentre todas las clases laterales de $5 \mathbb{Z} < \mathbb{Z}$.
+<ul>
+<li>$5 \mathbb{Z}$.</li>
+<li>$1 + 5 \mathbb{Z}$.</li>
+<li>$2 + 5 \mathbb{Z}$.</li>
+<li>$3 + 5 \mathbb{Z}$.</li>
+<li>$4 + 5 \mathbb{Z}$.</li>
+</ul>
+</li>
+</ul>
+<p>Note que también se puede definir $a \sim b \iff a b^{-1} \in H$. Entonces, $H a = \{h a \mid h \in H\}$. En general, $a H \ne H a$.</p>
+<ul>
+<li>#example calcule las clases laterales de $\langle 3 \rangle < \mathbb{Z}_9$.
+<ul>
+<li>$\langle 3 \rangle = {0, 3, 6}$
+<ul>
+<li>$1 + \langle 3 \rangle = \{1, 4, 7\}$</li>
+<li>$2 + \langle 3 \rangle = \{2, 5, 8\}$</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>#proposition $H < G \implies |a H| = |H|$.
+<ul>
+<li>Demo: Suponga que $H < G$. Defina $f : H \to aH$ como $f(h) = a h$. Suponga que $f(h_1) = f(h_2)$. Entonces, $$
+\begin{align*}
+	&f(h_1) = f(h_2) \\
+	\implies &a h_1 = a h_2 \\
+	\implies &a^{-1} a h_1 = a^{-1}a h_2 \\
+	\implies &a^{-1} a h_1 = a^{-1}a h_2 \\
+	\implies &h_1 = h_2. \\
+\end{align*}$$</li>
+</ul>
+</li>
+</ul>
+<p>Entonces, $f$ es inyectiva. Ahora queremos probar que $f$ es sobreyectiva. Suponga que $x \in a H$. Entonces, $\exists h \in H$ tal que $x = h$ y $f(x) = ah.$ Por lo tanto, $f$ es sobreyectiva.</p>
+<ul>
+<li>#proposition Suponga que $G$ es un grupo finito y $H < G$. Entonces, $|H| \mid |G|$.
+<ul>
+<li>Demo: Suponga que $G$ es un grupo finito y que $H < G$. Entonces, $$G = \bigcup_{a \in G} a H.$$ Sean $a_1 H, a_2 H, \dots, a_r H$ todas las clases laterales por la izquierda que son distintas. Note que, $|a H| = |H|$ y todas las $a_n H$ son disjuntos. Entonces, $$\begin{align*} |G| &= \sum_{i = 1}^r |a_i H| \\ &=r |H|. \end{align*}$$</li>
+</ul>
+</li>
+</ul>
+<p><strong>MEP</strong></p>
+<ul>
+<li>#definition Sea $(G, *) \in \mathbf{Grp}$. La cantidad de clases laterales de $H < G$ se conoce como <strong>el índice</strong> de $H$ en $G$ y se denota por, $$[G : H].$$</li>
+</ul>
+<p>Por definición,</p>
+$$
+	|G| = [G : H] |H|.
+$$<ul>
+<li>#proposition Sea $G$ un grupo finito y $a \in G$. Entonces, $a^{|G|} = e.$</li>
+<li>#example En $D_6$.
+<ul>
+<li>Encuentre $C(t)$.
+<ul>
+<li>Recuerde que $$t r^j = r^{n - j} t$$</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Entonces, $C(t) = \{e, t, r^3, r^3 t\}.$</p>
+<ul>
+<li>Encuentre todas las clases laterales de $C(t)$.
+<ul>
+<li>$C(t) = \{e,t,r^3,r^3t\}.$</li>
+<li>$r C(t) = \{r,rt,r^4,r^4t\}.$</li>
+<li>$r^2 C(t) = \{r^2,r^2t,r^5,r^5t\}.$</li>
+</ul>
+</li>
+</ul>
+
+  </article>
+
+      </main>
+      <footer class="mt-20 border-t border-neutral-100 pt-2 text-xs">
+        <section class="items-top flex flex-row justify-between opacity-70">
+  <div class="flex flex-col space-y-2">
+
+  </div>
+    <div>
+      <a
+        href="https://github.com/michenriksen/hugo-theme-til"
+        title="Today I Learned &#8212; A Hugo theme by Michael Henriksen"
+        data-theme-version="0.6.0"
+        >theme: til</a
+      >
+    </div>
+</section>
+
+      </footer>
+    </div>
+    
+  </body>
+</html>
