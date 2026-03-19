@@ -5,7 +5,12 @@ date = 2023-12-12T21:18:56-04:00
 
 ## DISCLAIMER!!!
 This page is outdated. I have not had the time to update the CV.
+<<<<<<< HEAD
 However, I _will_ update this page when I have the time.
+=======
+However, I _will_ update this page when I have the time. You can
+download the CV, which _is_ up to date now, at the bottom of the page.
+>>>>>>> main
 
 # Education
 - B.S. Pure Mathematics, Minor in Cyber Security
@@ -131,7 +136,11 @@ Meeting, Humacao, PR.
     - `nix`
 
 ### Download my CV (English):
+<<<<<<< HEAD
 - [English](https://github.com/azabelmena/curriculum_vitae/raw/english/alec_zabel_mena.pdf)
     - The English version is currently out of date.
+=======
+- [English](https://github.com/azabelmena/curriculum_vitae/raw/refs/heads/main/azabelmena.pdf)
+>>>>>>> main
 - Spanish version coming soon.
-<!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/spanish/alec_zabel_mena.pdf){:target="_blank"}-->
+<!--- [Spanish](https://github.com/azabelmena/curriculum_vitae/raw/refs/heads/spanish/azabelmena.pdf)-->

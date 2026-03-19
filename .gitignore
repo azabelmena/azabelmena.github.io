@@ -3,5 +3,5 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-themes/PaperMod/.git
 themes/hello-friend-ng/.git
+public/

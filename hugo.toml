@@ -1,12 +1,196 @@
+<<<<<<< HEAD
 baseURL = 'https://azabelmena.xyz'
 languageCode = 'en-us'
 title = "Alec S. Zabel-Mena"
 copyright = 'Alec S. Zabel-Mena'
+=======
+baseURL = "https://azabelmena.xyz/"
+title   = "Alec S. Zabel-Mena, B.S."
+languageCode = "en-us"
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "gruvbox-dark"
+
+pagination.pagerSize  = 10
+rssLimit  = 10
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpired = false
+canonifyURLs = true
+
+>>>>>>> main
 enableRobotsTXT = true
 
+<<<<<<< HEAD
 [module]
   [[module.imports]]
     path = "github.com/michenriksen/hugo-theme-til"
+=======
+[permalinks]
+  posts = "/posts/:month/:year/:title/"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = "categories"
+  series   = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.passthrough]
+        enable = true
+        [markup.goldmark.extensions.passthrough.delimiters]
+          block = [['\[', '\]']]
+          inline = [['\(', '\)']]
+
+[params]
+  math = true
+  [params.author]
+    name = "Alec S. Zabel-Mena"
+
+  dateform        = "2 Jan, 2006"
+  dateformShort   = "2 Jan"
+  dateformNum     = "02.01.2006"
+  dateformNumTime = "02.01.2006 15:04"
+
+  # Metadata mostly used in document's head
+  #
+  description = "Nice theme for homepages and blogs"
+  keywords = ""
+  images = [""]
+
+  # Home subtitle of the index page.
+  #
+  homeSubtitle = ""
+
+  # gitUrl = ""
+
+  disableReadOtherPosts = false
+
+  enableThemeToggle = true
+
+  enableSharingButtons = true
+
+  enableGlobalLanguageMenu = true
+
+  customCSS = []
+  customJS  = []
+
+  justifyContent = false
+
+  [params.footer]
+    trademark = 2025
+    rss = true
+    copyright = true
+    author = true
+
+    topText = []
+    bottomText = ["Mathematics for Fun and Profit"]
+
+  [params.favicon.color]
+    mask = "#1b1c1d"
+    msapplication = "#1b1c1d"
+    theme = "#1b1c1d"
+
+  [params.logo]
+    logoMark     = ">"
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+     logoCursorDisabled = false
+     logoCursorColor    = "#cc241d"
+     logoCursorAnimate  = "2s"
+     logoCursorPathname = true
+
+  [params.portrait]
+    path = "/images/planar_bipartite.svg"
+    alt      = "Portrait"
+    maxWidth = "500px"
+
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Addon: Commento
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Commento is more than just a comments widget you can embed —
+  # it’s a return to the roots of the internet.
+  # An internet without the tracking and invasions of privacy.
+  # An internet that is simple and lightweight.
+  # An internet that is focused on interesting discussions, not ads.
+  # A better internet.
+  # Uncomment this to enable Commento.
+  #
+  # [params.commento]
+  #   url = ""
+
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Addon: Utteranc.es
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Utteranc.es is a lightweight comments widget built on GitHub issues.
+  # See https://utteranc.es/ for documentation
+  # Uncomment this to enable Utteranc.es.
+  #
+  # [params.utterances]
+  #   Your GitHub repository
+  #
+  #   repository = ""
+  #
+  #   label used for GitHub issues
+  #
+  #   label      = ""
+  #
+  #   Blog Post <-> Issue mapping. This parameter is optional. Possible values are:
+  #      - pathname
+  #      - url
+  #      - title
+  #      - og:title
+  #      - issue number
+  #      - specific term
+  #
+  #   issueTerm  = ""
+  #
+  #   Theme used: possible values are:
+  #      - github-light
+  #      - github-dark
+  #      - preferred-color-scheme
+  #      - github-dark-orange
+  #      - icy-dark
+  #      - dark-blue
+  #      - photon-dark
+  #      - boxy-light
+  #      - gruvbox-dark
+  #
+  #   theme      = ""
+  #
+
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+  # Addon: Social icons
+  # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:alec.zabel@upr.edu"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/azabelmena"
+
+[languages]
+  [languages.en]
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  [languages.en.params]
+    subtitle  = "Mathematics for Fun and Profit"
+>>>>>>> main
 
 [outputs]
   home = ['html']
@@ -32,6 +216,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "notes"
     name       = "Notes"
+<<<<<<< HEAD
     url        = "/notes/"
     weight     = 10
   [[menu.main]]
@@ -89,3 +274,14 @@ enableRobotsTXT = true
     blockCC = true
 
     blockAI = true
+=======
+    url        = "notes/"
+  [[menu.main]]
+    identifier = "zettelkasten"
+    name       = "Zettelkasten"
+    url        = "https://zettelkasten.azabelmena.xyz"
+  [[menu.main]]
+    identifier = "zibaldone"
+    name       = "Zibaldone"
+    url        = "https://zibaldone.azabelmena.xyz"
+>>>>>>> main

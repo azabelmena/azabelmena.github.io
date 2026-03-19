@@ -20,3 +20,6 @@ date = 2023-12-12T21:22:10-04:00
 # [Coding Theory](https://en.wikipedia.org/wiki/Coding_theory)
 - Algebraic Geometric Codes
 - Quantum Error Correction
+
+# [Automated Proof Assistance](https://en.wikipedia.org/wiki/Proof_assistant)
+- [LEAN Theorem Prover](https://lean-lang.org/)
