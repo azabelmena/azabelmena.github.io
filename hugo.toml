@@ -13,12 +13,37 @@ enableRobotsTXT = true
   section = ['html', 'rss', 'json']
   page = ['html']
 
-[menus]
-  [[menus.main]]
-    name = 'Entries'
-    pageRef = '/posts'
-    weight = 30
-
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "/about/"
+    weight     = 10
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "/cv/"
+    weight     = 10
+  [[menu.main]]
+    identifier = "research_interests"
+    name       = "Research Interests"
+    url        = "/research_interests/"
+    weight     = 10
+  [[menu.main]]
+    identifier = "notes"
+    name       = "Notes"
+    url        = "/notes/"
+    weight     = 10
+  [[menu.main]]
+    identifier = "zettelkasten"
+    name       = "Zettelkasten"
+    url        = "https://azabelmena.github.io/zettelkasten"
+    weight     = 10
+  [[menu.main]]
+    identifier = "zibaldone"
+    name       = "Zibaldone"
+    url        = "https://azabelmena.github.io/zibaldone"
+    weight     = 10
 [markup]
   [markup.highlight]
     noClasses = false
@@ -44,9 +69,9 @@ enableRobotsTXT = true
     email = 'alec.zabel@upr.edu'
 
   [params.home]
-    showRecentPosts = true
+    showRecentPosts = false
 
-    recentPostsLimit = 3
+    recentPostsLimit = 0
 
   [params.notes]
     pageSize = 20
