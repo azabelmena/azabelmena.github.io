@@ -12,7 +12,6 @@
   in
   {
     devShells.${system} = {
-<<<<<<< HEAD
       azabel = pkgs.mkShell{
         name = "azabel";
 
@@ -20,13 +19,6 @@
           go
           hugo
           nodejs
-=======
-      azm = pkgs.mkShell{
-        name = "azm";
-
-        nativeBuildInputs = with pkgs; [
-          hugo
->>>>>>> main
         ];
       };
     };
