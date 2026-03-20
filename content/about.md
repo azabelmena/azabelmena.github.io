@@ -24,7 +24,7 @@ theory.
   page where I list various research areas in mathematics that I am
   interested in pursuing, if I am not already researching those areas.
   I give hyperlinks to pages explaining each area (where applicable).
-- A [_Zibaldone_](https://www.ivanseymus.com/on-keeping-a-zibaldone-commonplace-book/)
+- A [_zibaldone_](https://www.ivanseymus.com/on-keeping-a-zibaldone-commonplace-book/)
 which where you can find math jokes, quotes, observations, and
 (short) reflections and one-off throughs (transcribed directly from my
 physical notebooks of course). This should not be confused with a
@@ -35,3 +35,6 @@ time-stamps. If you want to learn more about zibaldones and commonplace books,
 He also has a [substack](https://parknotes.substack.com/).
 - I will possibly, add a blog to record thoughts which are too big for
   the Zibaldone to contain. I'm still not certain on this.
+- A [_zettelkasten_](https://zettelkasten.de/introduction/)
+  containing various mathematical definitions. This zettelkasten
+  mostly serves as a quick method for looking up definitions.
