@@ -18,32 +18,33 @@ enableRobotsTXT = true
     identifier = "about"
     name       = "About"
     url        = "/about/"
-    weight     = 10
-  [[menu.main]]
-    identifier = "cv"
-    name       = "CV"
-    url        = "https://cv.azabelmena.xyz"
-    weight     = 10
+    weight     = 70
   [[menu.main]]
     identifier = "research_interests"
     name       = "Research Interests"
     url        = "/research_interests/"
-    weight     = 10
+    weight     = 60
   [[menu.main]]
     identifier = "notes"
     name       = "Notes"
     url        = "/notes/"
-    weight     = 10
+    weight     = 50
+  [[menu.main]]
+    identifier = "cv"
+    name       = "CV"
+    url        = "https://cv.azabelmena.xyz"
+    weight     = 30
+  [[menu.main]]
+    identifier = "zibaldone"
+    name       = "Zibaldone"
+    url        = "https://zibaldone.azabelmena.xyz"
+    weight     = 20
   [[menu.main]]
     identifier = "zettelkasten"
     name       = "Zettelkasten"
     url        = "https://zettelkasten.azabelmena.xyz"
     weight     = 10
-  [[menu.main]]
-    identifier = "zibaldone"
-    name       = "Zibaldone"
-    url        = "https://zibaldone.azabelmena.xyz"
-    weight     = 10
+
 [markup]
   [markup.highlight]
     noClasses = false
