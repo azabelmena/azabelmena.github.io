@@ -22,7 +22,7 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "cv"
     name       = "CV"
-    url        = "/cv/"
+    url        = "https://cv.azabelmena.xyz"
     weight     = 10
   [[menu.main]]
     identifier = "research_interests"
