@@ -17,17 +17,17 @@ enableRobotsTXT = true
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "/about/"
+    url        = "https://about.azabelmena.xyz"
     weight     = 70
   [[menu.main]]
     identifier = "research_interests"
     name       = "Research Interests"
-    url        = "/research_interests/"
+    url        = "https://research.azabelmena.xyz"
     weight     = 60
   [[menu.main]]
     identifier = "notes"
     name       = "Notes"
-    url        = "/notes/"
+    url        = "https://notes.azabelmena.xyz"
     weight     = 50
   [[menu.main]]
     identifier = "cv"
