@@ -44,6 +44,11 @@ enableRobotsTXT = true
     name       = "Zettelkasten"
     url        = "https://zettelkasten.azabelmena.xyz"
     weight     = 10
+  [[menu.main]]
+    identifier = "mathematik"
+    name       = "Mathematik"
+    url        = "https://mathematik.azabelmena.xyz"
+    weight     = 10
 
 [markup]
   [markup.highlight]
