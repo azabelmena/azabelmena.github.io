@@ -49,6 +49,11 @@ enableRobotsTXT = true
     name       = "Mathematik"
     url        = "https://mathematik.azabelmena.xyz"
     weight     = 10
+  [[menu.main]]
+    identifier = "politik"
+    name       = "Politik"
+    url        = "https://politik.azabelmena.xyz"
+    weight     = 10
 
 [markup]
   [markup.highlight]
