@@ -12,8 +12,8 @@
   in
   {
     devShells.${system} = {
-      azabel = pkgs.mkShell{
-        name = "azabel";
+      azabelmena = pkgs.mkShell{
+        name = "azabelmena";
 
         nativeBuildInputs = with pkgs; [
           go
