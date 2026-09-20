@@ -3,5 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
-themes/hello-friend-ng/.git
+themes/
 public/
+node_modules/
