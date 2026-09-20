@@ -1,8 +1,8 @@
 {
-  description = "Alec S. Zabel-Mena";
+  description = "Hugo Site Flake.";
 
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/release-24.11";
+    nixpkgs.url = "github:NixOS/nixpkgs/release-26.05";
   };
 
   outputs = {self, nixpkgs}:
@@ -12,8 +12,8 @@
   in
   {
     devShells.${system} = {
-      azabelmena = pkgs.mkShell{
-        name = "azabelmena";
+      site = pkgs.mkShell{
+        name = "site";
 
         nativeBuildInputs = with pkgs; [
           go
