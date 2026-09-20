@@ -6,7 +6,7 @@ enableRobotsTXT = true
 
 [module]
   [[module.imports]]
-    path = "github.com/michenriksen/hugo-theme-til"
+    path = "github.com/azabelmena/hugo-theme-til"
 
 [outputs]
   home = ['html']
